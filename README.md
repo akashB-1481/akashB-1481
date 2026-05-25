@@ -91,7 +91,7 @@ Currently focused on Kubernetes, Docker, CI/CD, Infrastructure Automation, and C
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashb1408&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github.com/akashB-1481&show_icons=true&theme=tokyonight)
 
 ## 🤝 Connect With Me
 
